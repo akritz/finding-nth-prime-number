@@ -1,0 +1,5 @@
+Approach:
+
+Find the prime numbers upto MAX_SIZE using Sieve of Eratosthenes.
+Store all primes in a vector.
+For a given number N, return element at (N-1)th index in a vector.
